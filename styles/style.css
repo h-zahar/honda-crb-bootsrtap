@@ -1,0 +1,104 @@
+header{
+    background-color: #264653;
+}
+
+header p {
+    color: #E0E0E0;
+}
+
+.pre-h-text {
+    font-size: 0.98rem;
+    font-weight: 300;
+}
+
+.h-text {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.post-h-text {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.set-btn {
+    border: 1px solid #c25034;
+    background-color: #E76F51;
+    transition: all 0.5s;
+}
+
+.set-btn span {
+    font-weight: 500;
+}
+
+.set-width {
+    width: 288px;
+    height: 243px;
+}
+
+.featured .col:nth-child(2n+1) img {
+    filter: grayscale(100%);
+}
+
+.highlight-color {
+    color: #E76F51;
+}
+
+small {
+    font-weight: 600;
+}
+
+.set-height {
+    height: 143px;   
+}
+
+.star {
+    color: #E77C40;
+}
+
+.name-text {
+    color: #23A6F0;
+    font-weight: 600;
+}
+
+.job-text {
+    color: #252B42;
+    font-weight: 600;
+}
+
+.custom-accordion {
+    border: 1.3px solid #D5E5FB;
+}
+
+.custom-accordion:hover {
+    border: 1.3px solid green;
+}
+
+.social a {
+    color: unset;
+    text-decoration: none;
+}
+
+.social a i {
+    transition: all 0.5s;
+}
+
+.social a:hover i {
+    transform: scale(1.4, 1.4);
+}
+
+.youtube {
+    color: #FF0000;
+}
+
+.facebook {
+    color: #1778F2;
+}
+
+.twitter {
+    color: #1DA1F2;
+}
+
+.twitch {
+    color: #6441A4;
+}
